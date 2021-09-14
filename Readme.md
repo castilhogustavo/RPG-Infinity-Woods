@@ -8,5 +8,5 @@ Plot: Infinity Woods é uma pequena aventura medieval e de fantasia em formato d
 
 ------------------------------------------------------
 
-Linguagens: C e C++.
+Linguagens: C++.
 IDE: DevC++
